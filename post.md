@@ -1,4 +1,5 @@
-# Lab X: Doing stuff with hardware!
+# Lab 5: Sequential Circuit Design!
+!
 
 ## Overview and Motivation
 In this lab, we will design circuits that utilize memory in order to achieve increased functionality. Before this lab, we created different combinational circuits in which the outputs of the circuits were determined by the inputs directly. This means we weren't required to worry about memory, nor any notion of the sequence of operations that may have happened in the past.
@@ -127,7 +128,13 @@ Lastly, we will need to wire our overall output `F`. `F = (~Q0)(~Q1)`. To wire `
 
 ## Testing
 
+
+
 ## Conclusion
+
+
+
+https://github.com/mlcourses/lab-5-blog-post-group6_cs281/assets/112486168/099952a6-7552-46d3-90e1-27faab2224c1
 
 
 
