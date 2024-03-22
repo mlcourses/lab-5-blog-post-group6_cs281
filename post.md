@@ -8,29 +8,35 @@ This week, we will be working with Sequential Circuits. Sequential circuits intr
 To successfully be able to create this circuit, we need to make ourselves fimilar with Finite State Machine Design.
 
 ## Materials
--IC data sheets
+For this lab, we will need to consult IC data sheets for the NOT, AND, XOR, and the JK Flip-flop:
+    - IC data sheets
 
--PB-503 breadboard prototyping station
+    - PB-503 breadboard prototyping station with the Logic Probes, NC Push Button and Logic Switches 
 
--Wires and connection tools
+    - Wires and connection tools
 
--Logic Probes
+    - Logic Probes (if not included in the breadboard)
 
--Logic Switches
+    - Logic Switches (if not included in the breadboard)
 
--Push Button
+    - Push Button (if not included in the breadboard)
 
--7404 NOT gate IC
+    - 7404 NOT gate IC
 
--7408 AND gate IC
+    - 7408 AND gate IC
 
--7486 XOR gate IC
+    - 7486 XOR gate IC
 
--7476 JK Flip Flop IC
+    - 7476 JK Flip Flop IC
 
--Resistors
+    - Resistors
+
+Once getting all things prepared, we can get to work!
 
 ## Project Steps
+
+
+
 
 ## Testing
 
